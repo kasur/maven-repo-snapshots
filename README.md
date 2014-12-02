@@ -1,0 +1,3 @@
+MAVEN SNAPSHOTS REPOSITORY
+==========================
+
